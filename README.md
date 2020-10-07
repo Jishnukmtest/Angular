@@ -17,9 +17,7 @@ This codebase was created to demonstrate a fully fledged application built with 
 Additionally, there is an Angular 1.5 version of this codebase that you can [fork](https://github.com/gothinkster/angularjs-realworld-example-app) and/or [learn how to recreate](https://thinkster.io/angularjs-es6-tutorial).
 
 
-# How it works
 
-We're currently working on some docs for the codebase (explaining where functionality is located, how it works, etc) but the codebase should be straightforward to follow as is. We've also released a [step-by-step tutorial w/ screencasts](https://thinkster.io/tutorials/building-real-world-angular-2-apps) that teaches you how to recreate the codebase from scratch.
 
 ### Making requests to the backend API
 
@@ -53,7 +51,9 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 - GET and display paginated lists of articles
 - Favorite articles
 - Follow other users
+# How it works
 
+We're currently working on some docs for the codebase (explaining where functionality is located, how it works, etc) but the codebase should be straightforward to follow as is. We've also released a [step-by-step tutorial w/ screencasts](https://thinkster.io/tutorials/building-real-world-angular-2-apps) that teaches you how to recreate the codebase from scratch.
 **The general page breakdown looks like this:**
 
 - Home page (URL: /#/ )
